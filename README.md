@@ -25,6 +25,6 @@
 
             ]
 # User Interface
-<a href="url"><img src="https://user-images.githubusercontent.com/92297443/202903547-590e33de-0036-434c-bf58-f5a232c23e82.png" align="left" height="350px" width="405px" ></a>
+<img src="https://user-images.githubusercontent.com/92297443/202903547-590e33de-0036-434c-bf58-f5a232c23e82.png" align="left" height="350px" width="405px" >
 
-<a href="url"><img src="https://user-images.githubusercontent.com/92297443/202903641-f27d7d7b-8b13-4a4e-b4a4-e94e276ed87f.png" align="left" height="350px" width="405px" ></a>
+<img src="https://user-images.githubusercontent.com/92297443/202903641-f27d7d7b-8b13-4a4e-b4a4-e94e276ed87f.png" align="left" height="350px" width="405px" >
